@@ -39,7 +39,7 @@ Football-Match-Results-Predictor/
 │   ├── ModelTraining_Football match results predictor.ipynb
 │   └── Championship.ipynb
 │
-├── Data/
+├── Dataset/
 │   └── rera.csv (processed dataset)
 │
 ├── Reports/
