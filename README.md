@@ -164,7 +164,7 @@ nn_model = joblib.load('Models/RegressorNN.joblib')
 ---
 
 ## 📚 References
-- Kaggle datasets: *International Football Results*, *FIFA World Rankings*  
+- Kaggle datasets: [*International Football Results*](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017), [*FIFA World Rankings*](https://www.kaggle.com/datasets/cashncarry/fifaworldranking)  
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Joblib  
 - Educational resources: University Nice Côte d'Azur – Neural Networks course; Scikit-learn documentation; Machine Learning Mastery articles
 
