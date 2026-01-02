@@ -1,0 +1,7 @@
+match_number,home_team,away_team,result
+1,Germany,Japan,0.0
+2,Germany,Spain,1.0
+3,Germany,Costa Rica,2.0
+4,Japan,Spain,0.0
+5,Japan,Costa Rica,2.0
+6,Spain,Costa Rica,2.0

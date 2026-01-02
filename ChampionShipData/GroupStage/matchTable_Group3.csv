@@ -1,0 +1,7 @@
+match_number,home_team,away_team,result
+1,Argentina,Saudi Arabia,1.0
+2,Argentina,Mexico,0.0
+3,Argentina,Poland,2.0
+4,Saudi Arabia,Mexico,1.0
+5,Saudi Arabia,Poland,2.0
+6,Mexico,Poland,2.0
